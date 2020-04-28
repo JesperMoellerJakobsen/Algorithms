@@ -4,7 +4,7 @@ using System;
 namespace BinarySearch
 {
 	[TestFixture]
-	class Tests
+	public class Tests
 	{
 		[Test]
 		public void TestList()
