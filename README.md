@@ -1,1 +1,1 @@
-Contains simple algorithms such as PrimeNumberFinder and BinarySearch 
+Contains simple algorithms such as PrimeNumberFinder and BinarySearch.
